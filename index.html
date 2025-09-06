@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Campus FeedbackFlow</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>FeedbackFlow</h1>
+    <p>Help us improve your learning experience!</p>
+
+    <div class="progress-container">
+      <div class="progress-bar" id="progress"></div>
+    </div>
+
+    <form id="feedbackForm">
+      <div class="form-step">
+        <label>1. How would you rate today’s lecture? (1-5)</label>
+        <input type="range" min="1" max="5" value="3" class="slider" id="rating">
+        <p>Rating: <span id="ratingValue">3</span></p>
+      </div>
+
+      <div class="form-step">
+        <label>2. What was the most helpful part?</label>
+        <input type="text" required>
+      </div>
+
+      <div class="form-step">
+        <label>3. What could be improved?</label>
+        <textarea required></textarea>
+      </div>
+
+      <button type="submit">Submit Feedback 😊</button>
+    </form>
+
+    <p class="thank-you" id="thankYouMessage" style="display:none;">
+      Thank you! Your feedback helps us grow. 🌱
+    </p>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
