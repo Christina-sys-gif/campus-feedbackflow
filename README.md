@@ -5,11 +5,6 @@ A proof-of-concept feedback platform designed to improve student engagement thro
 ## 🔗 Live Demo
 👉 [View Live Prototype](https://christina-sys-gif.github.io/campus-feedbackflow/)
 
-## 📸 Screenshot
-![FeedbackFlow Screenshot](https://raw.githubusercontent.com/Christina-sys-gif/campus-feedbackflow/main/screenshot.png)
-
-*(Optional: Upload a screenshot of your form to make this show up!)*
-
 ## ✨ Features
 - ⏱️ Progress bar to improve completion rates
 - 💾 Auto-save using browser storage
@@ -36,4 +31,4 @@ A proof-of-concept feedback platform designed to improve student engagement thro
 
 ## 🙌 Built by
 Christina | Aspiring Research & Development Officer  
-[LinkedIn](https://linkedin.com/in/yourprofile) | [Portfolio](https://yourportfolio.com)
+| [Portfolio](https://sites.google.com/view/christina-rd-portfolio-web-app/contact)
