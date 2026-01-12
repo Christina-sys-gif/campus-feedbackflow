@@ -31,4 +31,4 @@ A proof-of-concept feedback platform designed to improve student engagement thro
 
 ## 🙌 Built by
 Christina | Aspiring Research & Development Officer  
-| [Portfolio](https://sites.google.com/view/christina-rd-portfolio-web-app/contact)
+| [Portfolio](https://sites.google.com/view/christina-rd-portfolio-web-app/home)
